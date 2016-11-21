@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  color: rgb(127, 219, 255);
+  background-color: rgb(17,17,17);
+}
+
+#results {
+  margin-top: 5px;
+}
+
+.disclaimer {
+  position: fixed;
+  bottom: 0px;
+}
+
+.largeIcons {
+  margin-top: 20px;
+  font-size: 600%;
+}
+
+#temp {
+  margin-bottom: 20px;
+  margin-top: -15px;
+}
+
+#maxSig {
+  float: right;
+  bottom: 0;
+  margin-right: 10px;
+}
